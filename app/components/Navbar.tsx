@@ -5,8 +5,11 @@ export default function Navbar(){
         <Link href="/">
         Home
         </Link>
-        <Link href="/menu">
-        Menu
+        <Link href="/about">
+        About Me
+        </Link>
+        <Link href="/projects">
+        Projects
         </Link>
     </nav>
     )
